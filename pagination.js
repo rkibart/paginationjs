@@ -68,3 +68,5 @@ const result7 = paginateArray(arrayOfEntries,settings7)
 const result8 = paginateArray([],settings1)
 const result9 = paginateArray(arrayOfEntries,{})
 const result10 = paginateArray(arrayOfEntries)
+const result10 = paginateArray()
+
